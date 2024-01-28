@@ -63,8 +63,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="HR-Portal"
-              description="The HR Portal project provides a u
-              responsive pl"
+              description="Developed an HR portal using Java, for seamless employee management. Features include onboarding, leave requests, and performance tracking. Enhanced efficiency and collaboration for HR processes."
               ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
